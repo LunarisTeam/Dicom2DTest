@@ -1,4 +1,4 @@
-# Dicom3DTest
+# Dicom2DTest
 This is a simple example project for visionOS, aiming to explore the possibilities of displaying a 3D model generated starting from a Dicom dataset.
 
 > [!CAUTION]
